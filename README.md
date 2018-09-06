@@ -3,6 +3,7 @@
 - 1）自定导入数据库对应表字段的中文注释
 -  2）Mapper、dao文件的后缀重命名
 - 3） 分页类的实现
+
 - 4） Lombok的整合，可以简化代码
 
 ### 2. 插件使用
@@ -10,7 +11,8 @@
    -  从idea或者eclipse中打开项目
    - 安装插件到本地的Maven仓库
 
-![输入图片说明](https://static.oschina.net/uploads/img/201803/19225240_e9VF.png "在这里输入图片标题") 
+<img src="http://ws4.sinaimg.cn//005AQjvJly1fv05anrx10j30hz0cqaaz.jpg" alt="image">
+
  - 在Maven 项目中使用 pom.xml
   ```
  <!--mybatis 插件  -->
