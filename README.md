@@ -11,7 +11,7 @@
    -  从idea或者eclipse中打开项目
    - 安装插件到本地的Maven仓库
 
-<img src="http://ws4.sinaimg.cn//005AQjvJly1fv05anrx10j30hz0cqaaz.jpg" alt="image">
+![image](http://ws4.sinaimg.cn//005AQjvJly1fv05anrx10j30hz0cqaaz.jpg)
 
  - 在Maven 项目中使用 pom.xml
   ```
